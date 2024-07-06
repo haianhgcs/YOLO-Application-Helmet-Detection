@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "haianhgcs",
+        "projectKey": "haianhgcs_YOLOv10-Helmet-Detection"
+    }
+}

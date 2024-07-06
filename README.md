@@ -37,3 +37,5 @@ Install required packages for YOLOv10
 
 
 ## Limitation
+* TODO: cannot download dataset from download link use gdown
+* 
